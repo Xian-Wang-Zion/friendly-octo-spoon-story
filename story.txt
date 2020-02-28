@@ -1,0 +1,5 @@
+Story name: Programmer's Life
+Main Character: Zion
+Setting: Zion is a computer science student at UW madison. This story talks about his experience about data structure.
+Zion was doing his red-black tree homework and he was debugging for 36 hours. Then he dead. RIP
+
