@@ -1,11 +1,15 @@
 Story name: Programmer's Life
 Main Character: Zion
 Setting: Zion is a computer science student at UW madison. This story talks about his experience about data structure.
-Zion was doing his red-black tree homework and he was debugging for 36 hours. Then he dead. RIP
+Zion was doing his red-black tree homework and he was debugging for 36 hours. Then he gave up and dropped out. RIP
 
 The entire community at UW Madison mourned the loss of Zion, for his computer science skills were incredibly high.
-They buried him underneath a diagram of the red-black tree homework that he had worked on so tirelessly.
+They made a memorial for him underneath a diagram of the red-black tree homework that he had worked on so tirelessly.
 However, his Xteam was angered at the loss of their teammate.
 They vowed that they would avenge him, no matter the cost.
 
-
+The main issue he had was with the print function. You see, it is one thing to code a functional red-black tree
+but coding the print function took Zion longer than the rest of the project combined. Turns out, printing out
+a sequence of multiple levels that is entirely dependant on spacing is not an easy task. It was at that point that
+Zion gave up. In fact, he had spent so long debugging print that he had not even thoroughly debugged the rest of his tree,
+and one can see why this prioritization was a bad thing. 
