@@ -12,4 +12,14 @@ The main issue he had was with the print function. You see, it is one thing to c
 but coding the print function took Zion longer than the rest of the project combined. Turns out, printing out
 a sequence of multiple levels that is entirely dependant on spacing is not an easy task. It was at that point that
 Zion gave up. In fact, he had spent so long debugging print that he had not even thoroughly debugged the rest of his tree,
-and one can see why this prioritization was a bad thing. 
+and one can see why this prioritization was a bad thing.
+ 
+
+Even though Zion's days as a programmer had come to an end, his story does not end there. Zion went forth to become a professional Street Fighter player.
+He practiced day and night, competing in monthly competitions at his local arcade. Zion's skills had soon developed far beyond those of his competition.
+He simply could not be beat. Zion was a local legend, quickly and gracefully dispatching of anyone who dare challenge him. By the end of the year Zion had earned his
+rightful spot in the World Street Fighter Tournament, playing against the best of best from around the globe. But even those in the tournament were no match for
+Zion's impeccable skills, and he swiftly took first place, earning the title of the world's greatest Street Fighter player to ever live. 
+After the tournament locals in Zion's hometown went to the arcade to meet with the newly crowned world champion, but alas Zion was no where to be found. 
+As quickly as Zion had risen to stardom, he disappeared, never to be seen again.
+Some say he left to retire in Alaska, yet others speculate he went back to debugging his print method after a much need year long hiatus.
